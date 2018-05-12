@@ -1,0 +1,44 @@
+_repo: The-Dingo-Boys--The-Squatters-of-Wallaby-Range_23374
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Stacey, W. S. (Walter S.)
+    aliases:
+    - Stacey, Walter S.
+    - Stacey, W.S.
+    birthdate: 1846
+    deathdate: 1929
+    gutenberg_agent_id: '9723'
+    url: http://www.gutenberg.org/2009/agents/9723
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fenn, George Manville
+    aliases:
+    - Fenn, G. Manville (George Manville)
+    - Fenn, G. M. (George Manville)
+    birthdate: 1831
+    deathdate: 1909
+    gutenberg_agent_id: '3840'
+    url: http://www.gutenberg.org/2009/agents/3840
+    wikipedia: http://en.wikipedia.org/wiki/George_Manville_Fenn
+description: ''
+gutenberg_issued: '2007-11-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23374'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Aboriginal Australians -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'British -- Australia -- Juvenile fiction'
+- !lcsh 'Frontier and pioneer life -- Australia -- Juvenile fiction'
+- !lcsh 'Australia -- Juvenile fiction'
+- !lcsh 'Australia -- Emigration and immigration -- Juvenile fiction'
+title: 'The Dingo Boys: The Squatters of Wallaby Range'
+url: http://www.gutenberg.org/ebooks/23374
